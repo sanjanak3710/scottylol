@@ -1,0 +1,11 @@
+name: define
+description: redirects to Oxford English Dictionary
+author: skuchib2
+matches:
+  - define
+  - dictionary
+searchUrl: https://www.oed.com/search?q=
+home: https://www.oed.com/
+examples:
+  - define
+  - define x
